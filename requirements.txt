@@ -1,0 +1,13 @@
+streamlit>=1.24.0
+langchain>=0.0.330
+openai-whisper
+moviepy>=1.0.3
+ffmpeg-python>=0.2.0
+openai>=0.27.0
+pandas>=1.5.0
+numpy>=1.23.0
+unstructured>=0.16.23
+requests>=2.28.0
+tqdm>=4.64.0
+pyaudio>=0.2.13
+python-dotenv>=1.0.0
