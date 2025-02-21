@@ -14,7 +14,7 @@ A powerful tool that extracts **SEO-optimized keywords** from **YouTube videos**
 
 ## 📂 Demo Screenshot
 
-![Demo Screenshot](path_to_screenshot.png)
+![SEO Keyword Generator Demo](youtube_keywords.gif)
 
 ---
 
